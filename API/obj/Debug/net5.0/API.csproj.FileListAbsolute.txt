@@ -1,0 +1,81 @@
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/appsettings.json
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/API.exe
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/API.deps.json
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/API.runtimeconfig.json
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/API.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/ref/API.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/API.pdb
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/victo/Desktop/Prova Back/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.csproj.CopyComplete
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.dll
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/ref/API.dll
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.pdb
+C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/ref/API.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.pdb
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/appsettings.json
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/API.deps.json
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/API.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/ref/API.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/API.pdb
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.genruntimeconfig.cache

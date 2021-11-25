@@ -1,0 +1,8 @@
+### Listar vendas
+GET  https://localhost:5001/api/venda/list
+
+
+### Listar vendas
+POST https://localhost:5001/api/venda/bolinho/andre/4/Debito
+Content-Type: application/json
+
