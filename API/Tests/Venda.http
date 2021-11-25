@@ -3,6 +3,6 @@ GET  https://localhost:5001/api/venda/list
 
 
 ### Listar vendas
-POST https://localhost:5001/api/venda/bolinho/andre/4/Debito
+POST https://localhost:5001/api/venda/venda/andre/4/1
 Content-Type: application/json
 

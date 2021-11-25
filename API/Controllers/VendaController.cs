@@ -50,17 +50,24 @@ namespace API.Controllers
 
 
         [HttpPost]
-        [Route("bolinho/{cliente}/{idCarrinho}/{NomePagamento}")]
-        public IActionResult bolinho([FromRoute] string cliente, string idCarrinho, string metodoPagamento)
+        [Route("venda/{cliente}/{idCarrinho}/{NomePagamento}")]
+        public IActionResult venda([FromRoute] string cliente, string idCarrinho, int metodoPagamento)
         {
-            var carinho = _context.ItensVenda.Where(x => x.CarrinhoId == idCarrinho).ToList();
-            var pagamento = _context.Pagamentos.FirstOrDefault(x => x.NomePagamento == metodoPagamento);
+            List<ItemVenda> carrinho = _context.ItensVenda.Include(x => x.Produto).Include(y => y.Produto.Categoria).Where(x => x.CarrinhoId == idCarrinho).ToList();
+            Pagamento pagamento = _context.Pagamentos.FirstOrDefault(x => x.Id == metodoPagamento);
            
+           if (carrinho == null) {
+               NotFound("carrinho nulo");
+           } else if (pagamento == null) {
+                NotFound("pagamento nulo");
+           }
            
                 Venda novaVenda = new Venda();
                 novaVenda.Cliente = cliente;
                 novaVenda.Pagamento = pagamento;
-                novaVenda.Itens = carinho;
+                novaVenda.Itens = carrinho;
+               
+               
                 _context.Vendas.Add(novaVenda);
                 _context.SaveChanges();
                 return Ok(_context.Vendas.ToList());
@@ -72,7 +79,7 @@ namespace API.Controllers
         [Route("listItens")]
         public IActionResult listItens()
         {
-            var venda = _context.ItensVenda.Include(x => x.Produto).ThenInclude(y => y.Categoria).ToList();
+            var venda = _context.ItensVenda.Include(x => x.Produto).ToList();
             return Ok(venda);
         }
     }
