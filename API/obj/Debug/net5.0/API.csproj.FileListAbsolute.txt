@@ -79,3 +79,43 @@ C:/Users/victo/Desktop/Prova Back/API/obj/Debug/net5.0/API.genruntimeconfig.cach
 /Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
 /Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.csproj.CopyComplete
 /Users/amasiero/Downloads/Segundo Comit/Prova Back/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/appsettings.Development.json
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/appsettings.json
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/API.deps.json
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/API.runtimeconfig.json
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/API.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/ref/API.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/API.pdb
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/ref/API.dll
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.pdb
+/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/obj/Debug/net5.0/API.genruntimeconfig.cache

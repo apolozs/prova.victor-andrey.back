@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HBfnKH6dhJmc/2ehHVepl/3gF2lyr9dvxEvurQfoukd9OVYlcBFlBZ+c1nSOFvhtxrX7BL3NRlfCZub5mae+3g==",
+  "dgSpecHash": "pd15eILvueodZH0fiWBs26o0u/nDAe5qbQOkx3/GlZjCsXTMRJynRQr9y23gKYQYHCuIg8ZOxUR5d0g0zsyfpw==",
   "success": true,
-  "projectFilePath": "/Users/amasiero/Downloads/Segundo Comit/Prova Back/API/API.csproj",
+  "projectFilePath": "/Users/amasiero/Documents/Pasta Sem Título 3/Pasta Sem Título 4/prova.victor-andrey.back/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/amasiero/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/amasiero/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

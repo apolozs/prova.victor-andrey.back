@@ -55,15 +55,17 @@ namespace API.Controllers
         {
             var carinho = _context.ItensVenda.Where(x => x.CarrinhoId == idCarrinho).ToList();
             var pagamento = _context.Pagamentos.FirstOrDefault(x => x.NomePagamento == metodoPagamento);
-
-            Venda venda = new Venda();
-            venda.Cliente = cliente;
-            venda.Pagamento = pagamento;
-            venda.Itens = carinho;
-            _context.Vendas.Add(venda);
-            _context.SaveChanges();
-            return Ok(_context.Vendas.ToList());
-
+           
+           
+                Venda novaVenda = new Venda();
+                novaVenda.Cliente = cliente;
+                novaVenda.Pagamento = pagamento;
+                novaVenda.Itens = carinho;
+                _context.Vendas.Add(novaVenda);
+                _context.SaveChanges();
+                return Ok(_context.Vendas.ToList());
+                 
+           
         }
 
         [HttpGet]
